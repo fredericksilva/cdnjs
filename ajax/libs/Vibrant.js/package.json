@@ -1,0 +1,30 @@
+{
+  "name": "Vibrant.js",
+  "filename": "Vibrant.min.js",
+  "version": "1.0.0",
+  "description": "Vibrant.js Extract prominent colors from an image.",
+  "homepage": "http://jariz.github.io/vibrant.js/",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/jariz/Vibrant.js.git"
+    }
+  ],
+  "author": "Jari Zwarts <hi@jariz.pro> (http://jari.io)",
+  "bugs": {
+    "url": "https://github.com/jariz/Vibrant.js/issues"
+  },
+  "keywords": [
+    "Vibrant",
+    "Colors ",
+    "Extract"
+  ],
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/jariz/vibrant.js.git",
+    "basePath": "",
+    "files": [
+      "Vibrant.js"
+    ]
+  }
+}
